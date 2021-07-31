@@ -145,7 +145,7 @@
         <aws-lambda-java-events.version>3.9.0</aws-lambda-java-events.version>
         <aws-lambda-serverless-java-container.version>1.6</aws-lambda-serverless-java-container.version>
         <aws-xray.version>2.9.1</aws-xray.version>
-        <awssdk.version>2.17.8</awssdk.version>
+        <awssdk.version>2.17.9</awssdk.version>
         <aws-alexa-sdk.version>2.40.0</aws-alexa-sdk.version>
         <azure-functions-java-library.version>1.4.2</azure-functions-java-library.version>
         <kotlin.version>1.5.21</kotlin.version>
@@ -161,7 +161,7 @@
         <liquibase.version>4.3.5</liquibase.version>
         <snakeyaml.version>1.29</snakeyaml.version>
         <osgi.version>6.0.0</osgi.version>
-        <neo4j-java-driver.version>4.3.3</neo4j-java-driver.version>
+        <neo4j-java-driver.version>4.3.4</neo4j-java-driver.version>
         <mongo-client.version>4.3.0</mongo-client.version>
         <mongo-crypt.version>1.2.1</mongo-crypt.version>
         <artemis.version>2.17.0</artemis.version>
